@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: A 3D design created in vZome.  Use mouse or touch to interact.
