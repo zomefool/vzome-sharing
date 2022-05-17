@@ -2,7 +2,7 @@
 title: Clark Richert's Stella Octangula
 description: Clark discovered the green lines by checking the boxes, all 6 of them.
 image: https://zomefool.github.io/vzome-sharing/2022/05/16/19-24-32-StellaOctangulaClark/StellaOctangulaClark.png
-published: false
+published: true
 layout: vzome
 ---
 
