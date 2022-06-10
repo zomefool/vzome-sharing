@@ -2,7 +2,7 @@
 title: ExplodedRhombicDodeca
 description: This is the 3D shape on which Baer based Clark Richert's Drop City Cartop Dome (circa 1966)
 image: https://zomefool.github.io/vzome-sharing/2022/06/10/17-05-10-ExplodedRhombicDodeca/ExplodedRhombicDodeca.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-This is the 3D shape on which Baer based Clark Richert's Drop City Cartop Dome (circa 1966)
+This is the 3D shape on which Baer based Clark Richert's Drop City Cartop Dome (circa 1966).
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
        src="https://zomefool.github.io/vzome-sharing/2022/06/10/17-05-10-ExplodedRhombicDodeca/ExplodedRhombicDodeca.vZome" >
